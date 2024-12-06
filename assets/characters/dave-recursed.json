@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				13
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				21
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				14
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				26,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				20,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "recursed/characters/Dave_recursed",
+	"position": [
+		70,
+		160
+	],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		95,
+		255
+	],
+	"camera_position": [
+		20,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
