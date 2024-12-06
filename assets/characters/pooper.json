@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-147
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-339,
+				-233
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "eletric-cockadoodledoo/characters/Pooper",
+	"position": [
+		-500,
+		1400
+	],
+	"healthicon": "Pooper",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		104,
+		107
+	],
+	"camera_position": [
+		-300,
+		-1200
+	],
+	"sing_duration": 6,
+	"scale": 5.99999999999999
+}
