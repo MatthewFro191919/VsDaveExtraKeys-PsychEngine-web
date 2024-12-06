@@ -1,0 +1,40 @@
+Warmup, MoldyGH, daveHeading, dave, true
+House, MoldyGH, daveHeading, dave, true
+Insanity, MoldyGH, daveHeading, dave, true
+Polygonized, MoldyGH, 3D-daveHeading, dave, false
+Blocked, MoldyGH, bambiHeading, bambi, false
+Corn-Theft, MoldyGH, bambiHeading, bambi, false
+Maze, MoldyGH, bambiHeading, bambi, false
+Splitathon, MoldyGH, splitathonHeading, 
+Shredder, MoldyGH, bambiHeading, bambi, false
+Greetings, MoldyGH, tristanHeading, 
+Interdimensional, MoldyGH, 3D-daveHeading, dave, false
+Rano, MoldyGH, daveHeading, dave, true
+Supernovae, ArchWK, bevelHeading, bambi, false
+Glitch, DeadShadow, bevelHeading, bambi, false
+Master, MoldyGH, bevelHeading, bambi, false
+Exploitation, Oxygen, expungedHeading, dave, false, Expunged
+Test, MoldyGH, tristanHeading, bambi
+Kabunga, MoldyGH, kabungaHeading, 
+Escape From California, MoldyGH, californiaHeading, dave, true, California
+Adventure, Ruby, tristanHeading, Ruby
+Overdrive, Top10Awesome, fnfengeading, Top
+Mealie, Alexander, bambiHeading, Alexander
+Indignancy, MoldyGH, bambiHeading, dave
+Memory, Alexander, daveHeading, Alexander
+Vs-Dave-Rap, UrMom, daveHeading, urMom
+Vs-Dave-Rap-Two, UrMom, daveHeading, urMom
+Bonus, MoldyGH, daveHeading, dave
+Bot-Trot, TH3R34LD34L, botHeading, TH3R34LD34L, true, Bot trot
+Roofs, sibottle, secretLeakHeading, sibottle
+Screwed, MoldyGH, bambiHeading, dave
+popcorn, Cótiles, bambiHeading, dave
+Supernovae-old, ArchWK, bevelHeading, dave
+Glitch-old, TheBoneyard, bevelHeading, bambi
+Furiosity, MoldyGH, 3D-daveHeading, dave
+Recursed, Aadsta, recursedHeading, Aadsta
+Algebra, Grantare, daveHeading, sky
+Cheating, MoldyGH, cheatingHeading, dave, true, Cheating
+Unfairness, MoldyGH, unfairHeading, dave, true, Unfairness
+eletric-cockadoodledoo, Cuzsie, 3D-daveHeading, Cuzsie
+badcorn, GappleLover, bambiHeading, bambi
