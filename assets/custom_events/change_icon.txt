@@ -1,0 +1,5 @@
+BETA TEST
+
+value1: BF icon
+
+value2: DAD icon

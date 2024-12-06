@@ -1,0 +1,1 @@
+make sure theres subs in the subs txt

@@ -1,0 +1,7 @@
+Sets the huds alpha
+
+Value 1: how much you want the 
+huds visibility to be
+
+Value 2: The time it takes to fully
+take effect

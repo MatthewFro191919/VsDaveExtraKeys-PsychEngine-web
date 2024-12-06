@@ -1,0 +1,3 @@
+v1: hide notes
+v2: no stage
+v3: skip flash

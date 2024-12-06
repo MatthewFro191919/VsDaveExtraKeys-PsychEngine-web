@@ -1,0 +1,2 @@
+Simple explanation. It plays a glitch sound
+and a glitch effect on screen :p
