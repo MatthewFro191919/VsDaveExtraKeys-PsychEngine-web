@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BFDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BFIdle"
+		},
+		{
+			"offsets": [
+				-11,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BFLeft"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BFRight"
+		},
+		{
+			"offsets": [
+				-12,
+				45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BFUp"
+		},
+		{
+			"offsets": [
+				-30,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dead",
+			"loop": false,
+			"name": "Dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cool_BF",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
